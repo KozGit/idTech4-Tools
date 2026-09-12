@@ -1,4 +1,4 @@
-\*Note: Claude was used in the creation of these tools.  If you're not comfortable with LLM generated code, the previous MD5 tools are safe for use. As to the rest of these tools - this was my first dive into AI coding, and I admit to getting a little crazy with the cheez wiz.  
+\*Note: Claude was used in the creation of these tools.  If you're not comfortable with LLM generated code, the previous MD5 tools are safe for use. As to the rest of these tools - this was my first dive into AI coding, and I admit to getting a little crazy with the cheez wiz.  This is version 1.0.0 of this collection, so some 'opportunities for improvement' are to be expected.
 <br>
 <br>
 
